@@ -1,0 +1,17 @@
+DEFINICIONES:
+1.VARIABLES:
+Una variable es algo que nosotros podemos usar para poder guardar cualquier tipo de informacion pero en una sola clave. La clave puede ser una letra o 
+un conjunto de letras que nos permitira recordar la informacion guardada.Por ejemplo si yo quisiera guardar tus apellidos tendria 
+que poner una clave y el valor que tendra esa clave. Mi clave seria apellidos y el valor o la informacion que quiero guardar seria Salazar Aranda
+          apellidos = 'Salazar Aranda'
+
+2.STRINGS
+los strings es un conjunto de caracteres o palabras. Un string siempre debera estar entre comillas, si ves algo con comillas es un string.
+3.FUNCIONES
+las funciones son un conjunto de instrucciones o comandos que nos devolvera un valor.
+4.DECLARACIONES if
+la declaracion if es para validar comparaciones de las variables. Si la comparacion es cierta esta 
+nos devolvera un valor de verdadero y se termina la declaracion if, si en caso fuera falso retornara 
+un valor falso. 
+5.VALORES BOOLEANOS
+es un tipo de dato que almacena 2 valores posibles, verdadero o falso.
